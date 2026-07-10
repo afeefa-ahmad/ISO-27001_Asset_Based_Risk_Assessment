@@ -62,9 +62,9 @@ If you are reading this repository for the first time, start here in
 then the company overview, then the organizational context and the scope. That
 sequence gives you the full picture before you reach the technical phases.
 
- *** Note: Trailhead Supply Co. is a fictional company created for this project. All
-     details are illustrative and exist to demonstrate ISO 27001 risk assessment
-     methodology. ***
+  > Note: Trailhead Supply Co. is a fictional company created for this project. All
+  >   details are illustrative and exist to demonstrate ISO 27001 risk assessment
+  >   methodology. 
 
 ---
 Prepared by Afeefa AHMAD. GRC portfolio project, fictional scenario for
