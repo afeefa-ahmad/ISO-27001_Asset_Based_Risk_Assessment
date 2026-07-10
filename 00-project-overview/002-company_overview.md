@@ -13,8 +13,8 @@ organization, meaning its internal and external issues and its interested partie
 is covered in `organizational-context.md`. The boundary of the assessment is
 defined in `scope-of-isms.md`.
 
- *** Note: Trailhead Supply Co. is a fictional company created for this project. All
-     details are illustrative and exist to demonstrate ISO 27001 methodology. ***
+ > Note: Trailhead Supply Co. is a fictional company created for this project. All
+ >    details are illustrative and exist to demonstrate ISO 27001 methodology. 
 
 ## 2. What the business does
 
