@@ -47,13 +47,13 @@ folder is one phase, and the folders are meant to be read top to bottom.
 
 | Folder | What it covers |
 |---|---|
-| `00-project-overview`
-| `01-architecture` 
-| `02-asset-inventory`
-| `03-risk-assessment` 
-| `04-risk-treatment` 
-| `05-statement-of-applicability` 
-| `06-reports` 
+| `00-project-overview` | Coming soon |
+| `01-architecture` | Coming soon |
+| `02-asset-inventory` | Coming soon |
+| `03-risk-assessment` | Coming soon |
+| `04-risk-treatment` | Coming soon |
+| `05-statement-of-applicability` | Coming soon |
+| `06-reports` | Coming soon |
 
 ## Where to start
 
